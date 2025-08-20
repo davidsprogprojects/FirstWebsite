@@ -1,0 +1,168 @@
+
+
+.displayPokemonPlaceholder{
+    overflow-x:auto;
+    height: 572px;
+    border: 2px solid white;
+    width:700px;
+    float:left;
+    margin-right: 8px;
+}
+
+.pokemonInfo{
+    height:560px;
+    width:350px;
+    float:left;
+    
+}
+.pokemonDetails{
+    border: 2px solid white;
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    
+    
+}
+#myNick{
+    margin-top:248px;
+    width:297px;
+    height:50px;
+    font-size:18px;
+    padding: 0px 0px;
+    text-align: center;
+    border: 1px solid blue;
+    
+}
+
+
+.pokemonAbility{
+    border: 2px solid white;
+    width: 285px;
+    height: 80px;
+    margin: 10px;
+
+}
+            
+.friendship{
+    border: 2px solid white;
+    width: 50px;
+    height: 50px;
+    margin: 25px;
+    margin-top:12px;
+    float:left;
+}
+            
+.heldItem{
+    border: 2px solid white;
+    width: 50px;
+    height: 50px;
+    margin: 25px;
+    margin-top:12px;
+    float:left;
+}
+            
+.pokeball{
+    border: 2px solid white;
+    width: 50px;
+    height: 50px;
+    margin: 25px;
+    margin-top:12px;
+    float:left;
+}
+            
+.addToTeam{
+    border: 2px solid white;
+    width: 250px;
+    height: 50px;
+    margin: 25px;
+    margin-top: 100px;
+    margin-bottom: 15px;
+
+
+
+}
+.statsMoves{
+    height:560px;
+    width:345px;
+    float:left;
+}
+            
+.moveList{
+    position: relative;
+    border: 2px solid white;
+    width: 200px;
+    height: 300px;
+    margin: 5px;
+    left:-40px;
+    float:left;
+
+}
+
+.attacks{
+    display:block;
+    margin-left: 12.5px;
+    margin-right: 12.5px;
+    margin-bottom: none;
+    height: 50px;
+    width: 175px;
+    
+    
+}
+
+.attacks:not(:last-child) {
+  margin-bottom: 25px;
+}
+
+.attacks(:first-child) {
+  margin-top: 25px;
+}
+
+.topBorder{
+    margin-top:12.5px;
+}
+
+.IV{
+    position:relative;
+    border: 2px solid white;
+    border-right: none;
+    height: 175px;
+    width: 208px;
+    left:-35px;
+    float:left;
+}
+
+.IVs{
+    width: 208px;
+    height: 175px;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+.IndividualValues{
+    
+    position: absolute;
+    text-align: center;
+    
+    font-size: 25px;
+    
+    
+}
+
+
+.EV{
+    position:relative;
+    margin:5px;
+    border: 2px solid white;
+    left: 170px;
+    width: 165px;
+    height: 484px;
+}
+            
+.reset{}
+            
+.statistics{}
+            
+
+
+
+
